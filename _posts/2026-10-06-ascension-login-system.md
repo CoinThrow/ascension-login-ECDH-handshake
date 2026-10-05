@@ -1,10 +1,12 @@
 ---
-layout: post
+layout: default
 title: "Reverse-Engineering a Custom WoW Login: X25519, ChaCha20, and a Hardware-Fingerprint Token"
 date: 2026-10-06
 description: "How a 3.3.5a-based game client authenticates with a modern ECDH handshake — byte layouts, constants, and quirks included."
 excerpt: "How a 3.3.5a-based game client authenticates with a modern ECDH handshake — byte layouts, constants, and quirks included."
 ---
+
+# Reverse-Engineering a Custom WoW Login: X25519, ChaCha20, and a Hardware-Fingerprint Token
 
 *How a 3.3.5a-based game client authenticates with a modern ECDH handshake — byte layouts, constants, and quirks included.*
 
