@@ -3,4 +3,4 @@ description: "Reverse-engineering notes and protocol deep dives."
 theme: minima
 show_excerpts: true
 author: "Coin"      
-baseurl: "/CoinThrow/ascension-login-ECDH-handshake/"  
+baseurl: "/ascension-login-ECDH-handshake/"  
