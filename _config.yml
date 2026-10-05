@@ -4,4 +4,4 @@ theme: minima
 show_excerpts: true
 future: true
 author: "Coin"      
-baseurl: "/ascension-login-ECDH-handshake/"  
+baseurl: "/ascension-login-ECDH-handshake"  
