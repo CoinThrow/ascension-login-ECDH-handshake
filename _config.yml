@@ -2,5 +2,6 @@ title: "Ascension-login-ECDH-handshake"
 description: "Reverse-engineering notes and protocol deep dives."
 theme: minima
 show_excerpts: true
+future: true
 author: "Coin"      
 baseurl: "/ascension-login-ECDH-handshake/"  
