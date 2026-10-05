@@ -1,6 +1,8 @@
 title: "Ascension-login-ECDH-handshake"
 description: "Reverse-engineering notes and protocol deep dives."
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme 
 show_excerpts: true
 future: true
 author: "Coin"      
